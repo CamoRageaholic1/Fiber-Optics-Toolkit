@@ -27,10 +27,10 @@ When users create issues, they'll be prompted to use these templates, ensuring c
 
 **Location:** `FUNDING.yml`
 
-Links to the author's published book on Amazon:
+Links to my published book on Amazon:
 **["Fiber Optics: A Comprehensive Guide"](https://www.amazon.com/Fiber-Optics-Comprehensive-David-Osisek/dp/B0C91JYN7K/)**
 
-Displays a "Sponsor" button on the repository with a link to support the author.
+Displays a "Sponsor" button on the repository with a link to support.
 
 ## 🎯 Purpose
 
