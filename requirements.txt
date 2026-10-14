@@ -1,6 +1,6 @@
 # Core dependencies
 numpy>=1.24.0
-pandas>=2.0.0
+pandas>=2.3.3
 
 # CLI and output formatting
 click>=8.1.0
